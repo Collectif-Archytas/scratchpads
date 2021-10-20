@@ -1,0 +1,19 @@
+! /Users/Shared/Scala/b6b8/b6b8v1.scl
+!
+ b6b8 lin scale middle 69 A4 440 Bernard Durr 
+ 12
+!
+ 22/21
+ 15/14
+  8/7
+  9/7
+  4/3
+ 10/7
+ 32/21
+ 11/7
+ 12/7
+ 13/7
+ 40/21
+  2/1
+
+ 
